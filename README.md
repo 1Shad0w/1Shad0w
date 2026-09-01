@@ -17,17 +17,15 @@ Desarrollador de software, ciberseguridad y automatización. Bienvenid@ a mi per
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🧪 Lenguajes que uso
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## 📊 Mis estadísticas
 
 ![Estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=1Shad0w&show_icons=true&theme=github_dark&hide_title=true&hide=prs,issues&exclude_repo=1Shad0w/goo-engine)
-
-![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=1Shad0w&layout=compact&theme=github_dark&exclude_repo=1Shad0w/goo-engine)
-
-## 🗂️ Repositorios destacados
-
-- [DiscordBot](https://github.com/1Shad0w/DiscordBot) — Bot de Discord en JavaScript.
-- [KotlinDesdeCero](https://github.com/1Shad0w/KotlinDesdeCero) — Aprendiendo Kotlin desde cero.
-- [goo-engine](https://github.com/1Shad0w/goo-engine) — Custom build de Blender con funciones de NPR (fork).
 
 ## 📫 Contacto
 
