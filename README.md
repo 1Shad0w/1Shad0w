@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy Jaime 👋
 
-<!--
-**1Shad0w/1Shad0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software, ciberseguridad y automatización. Bienvenid@ a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+```text
+💻 Stack que uso:  JavaScript · Kotlin · C / C++ / Python · Rust · SQL
+🔐 Intereses:      ciberseguridad, automatización, desarrollo de apps y bots
+🚀 Actualmente:    aprendiendo y construyendo sobre la marcha
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📊 Mis estadísticas
+
+![Estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=1Shad0w&show_icons=true&theme=github_dark&hide_title=true&hide=prs,issues&exclude_repo=1Shad0w/goo-engine)
+
+![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=1Shad0w&layout=compact&theme=github_dark&exclude_repo=1Shad0w/goo-engine)
+
+## 🗂️ Repositorios destacados
+
+- [DiscordBot](https://github.com/1Shad0w/DiscordBot) — Bot de Discord en JavaScript.
+- [KotlinDesdeCero](https://github.com/1Shad0w/KotlinDesdeCero) — Aprendiendo Kotlin desde cero.
+- [goo-engine](https://github.com/1Shad0w/goo-engine) — Custom build de Blender con funciones de NPR (fork).
+
+## 📫 Contacto
+
+¿Hablamos? Búscame aquí en GitHub y ¡nos vemos en el siguiente commit! 🚀
