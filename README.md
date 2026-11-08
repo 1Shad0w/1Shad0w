@@ -18,7 +18,3 @@ Desarrollador de software, ciberseguridad y automatización. Bienvenid@ a mi per
 ## 📊 Mis estadísticas
 
 ![Estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=1Shad0w&show_icons=true&theme=github_dark&hide_title=true&hide=prs,issues&exclude_repo=1Shad0w/goo-engine)
-
-## 📫 Contacto
-
-¿Hablamos? Búscame aquí en GitHub y ¡nos vemos en el siguiente commit! 🚀
